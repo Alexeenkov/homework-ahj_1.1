@@ -5,3 +5,5 @@
 [Migration Guide](https://webpack.js.org/migrate/5/)
 
 ## Статус проекта [![Build status](https://ci.appveyor.com/api/projects/status/wnyxs4xhudwfin35?svg=true)](https://ci.appveyor.com/project/Alexeenkov/homework-ahj-1-1)
+
+Тестовое изменение
